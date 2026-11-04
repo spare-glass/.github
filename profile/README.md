@@ -11,6 +11,6 @@ Spare 是一副 540×220 单色绿屏的智能眼镜。任何人都可以给它�
 | 提议改语言或 API | [rfcs](https://github.com/spare-glass/rfcs) |
 | 找社区作品和工具 | [awesome-spare](https://github.com/spare-glass/awesome-spare) |
 
-发布：[spare.cool/dev](https://spare.cool/dev/) · 讨论：GitHub Discussions · 国内镜像：GitCode `spare-glass`
+发布：[spare.cool/dev](https://spare.cool/dev/) · 讨论：[GitHub Discussions](https://github.com/orgs/spare-glass/discussions) · 国内镜像：GitCode `spare-glass`
 
-[贡献指南](../CONTRIBUTING.md) · [行为准则](../CODE_OF_CONDUCT.md) · [治理](../GOVERNANCE.md) · [安全](../SECURITY.md) · [商标](../TRADEMARK.md) · [作者权益](../AUTHORS-RIGHTS.md)
+[贡献指南](https://github.com/spare-glass/.github/blob/main/CONTRIBUTING.md) · [行为准则](https://github.com/spare-glass/.github/blob/main/CODE_OF_CONDUCT.md) · [治理](https://github.com/spare-glass/.github/blob/main/GOVERNANCE.md) · [安全](https://github.com/spare-glass/.github/blob/main/SECURITY.md) · [商标](https://github.com/spare-glass/.github/blob/main/TRADEMARK.md) · [作者权益](https://github.com/spare-glass/.github/blob/main/AUTHORS-RIGHTS.md)
