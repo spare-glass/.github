@@ -7,7 +7,7 @@ Spare 是一副 540×220 单色绿屏的智能眼镜。任何人都可以给它�
 | 写第一个眼镜应用 | [docs](https://github.com/spare-glass/docs)：5 分钟快速开始 |
 | 复制一个能跑的起点 | [templates](https://github.com/spare-glass/templates) · [examples](https://github.com/spare-glass/examples) |
 | 查语言和清单的细节 | [spec](https://github.com/spare-glass/spec) |
-| 在本地编译、打包 | [sdk](https://github.com/spare-glass/sdk) |
+| 在本地编译、打包、扫码装到眼镜 | [sdk](https://github.com/spare-glass/sdk) · [VS Code 插件](https://github.com/spare-glass/vscode-spare) |
 | 让 AI 帮你写 | [ai-kit](https://github.com/spare-glass/ai-kit) |
 | 提议改语言或 API | [rfcs](https://github.com/spare-glass/rfcs) |
 | 找社区作品和工具 | [awesome-spare](https://github.com/spare-glass/awesome-spare) |
